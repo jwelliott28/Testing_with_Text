@@ -1,1 +1,14 @@
 This document is only a test, meant to practice git version control
+
+It may be easier if I treat this like a journal. I can come back every so often and track my progress.
+
+1/13/2019
+
+Cowboys lost the NFC Divisonal round of the playoffs a couple of hours ago. Offense was OK, could've played better. Defense got
+shredded though. 275 yards on the ground versus Todd Gurley and CJ Anderson. Rooting for the Chargers to win it all.
+
+Trying to practice with Git, have learned that if there are uncommitted changes in a branch you are working on that differ from
+the one you are switching to, Git will not allow you to switch. Tried to get around this with sudo and it merged the branches for
+me. Going to try committing first, switching, and then merging. Will push to github if successful.
+
+Another test to see if I can do this correctly.
