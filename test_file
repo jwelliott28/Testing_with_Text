@@ -30,3 +30,5 @@ Have been playing Celeste. As difficult as I have heard it was. Nearly 600 death
 items and achievements.
 
 *Master updated when switched to. Need to commit, then switch.
+*Previous item has been confirmed. Without a commit, master will update along with testing. Must commit before switching branches
+and merging.
