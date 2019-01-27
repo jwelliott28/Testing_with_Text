@@ -58,3 +58,16 @@ Just finished shift. Going to work on connection script and see if I can ditch u
 Tested out Animals record I bought, sounds great. Did some more research on vinyl, a lot more to it than I thought. Needs MORE research.
 
 Listening to Thundercat right now.
+
+1/26/2019
+
+Chris came over and we fixed the clog in the sink the best that we could. Drains really well, but clog not 
+completely gone.
+
+Created a spreadsheet to help track expenses more responsibly.
+
+Finally have Linux desktop looking good. Managed to get decent color scheme to match background. Several hours 
+of work. Need to remember that terminal changes are most easily made by right clicking and then going to 
+properties. Need to keep in mind ~/.profile, ~/.config, ~/.bashrc, /etc/ for other configs.
+
+Removed urllib2 package from network connection script last week. Going to implement system call script tonight.
