@@ -71,3 +71,11 @@ of work. Need to remember that terminal changes are most easily made by right cl
 properties. Need to keep in mind ~/.profile, ~/.config, ~/.bashrc, /etc/ for other configs.
 
 Removed urllib2 package from network connection script last week. Going to implement system call script tonight.
+
+1/30/2019
+
+Moved creation and closure of log in conn_log.py to the if statement that runs the program. Used to create log 
+every time the program ran, now only does it if connection is lost.
+
+Major cold weather moving in tonight, heat index is below 0 across the state, expected to be almost -20
+in some places with wind chill factored in. Snowing here in town.
