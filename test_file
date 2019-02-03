@@ -79,3 +79,10 @@ every time the program ran, now only does it if connection is lost.
 
 Major cold weather moving in tonight, heat index is below 0 across the state, expected to be almost -20
 in some places with wind chill factored in. Snowing here in town.
+
+2/2/2019
+
+Finally got music and visualizer working. Had to ditch Cava for cli-visualizer due to Pulseaudio issues. vis 
+connected directly to it. Have to figure out how to remove static from music while playing. /etc/pulse is 
+where music settings are changed. Created a virtual env for work practice, thinking of making one for game 
+development.
